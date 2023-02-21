@@ -157,7 +157,7 @@ test*.ipynb
 
 # Model and prediction
 src/models/
-src/prediction.csv
+src/predict.csv
 src/submit.csv
 
 # Data
