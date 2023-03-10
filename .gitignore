@@ -156,7 +156,7 @@ cython_debug/
 test*.ipynb
 
 # Model and prediction
-src/models/
+src/model/
 src/predict.csv
 src/submit.csv
 
