@@ -159,6 +159,7 @@ test*.ipynb
 src/model/
 src/predict.csv
 src/submit.csv
+src/*pth
 
 # Data
 data/testing/**/*.jpg
