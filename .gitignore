@@ -162,6 +162,7 @@ src/model/**/*.pth
 src/predict.csv
 src/submit.csv
 src/*pth
+src/*final.ipynb
 
 # Data
 data/testing/**/*.jpg
