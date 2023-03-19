@@ -16,6 +16,7 @@ Solve an image classification problem with CNN.
   - Python 3.10+
   - Jupyter
   - pytorch
+  - torchvision
 
 ### Install mini-conda and mamba
 
@@ -41,11 +42,11 @@ mamba install -c conda-forge Jupyter ipykernel
 mamba install -c conda-forge pandas numpy seaborn matplotlib scikit-learn tqdm
 ```
 
-<!-- ### Code
+### Code
 
-[Weak Baseline](src/Baseline.ipynb)
+[Weak Baseline](src/HW2_Baseline.ipynb)
 
-[Strong Baseline](src/Modified.Private.ipynb) -->
+[Strong Baseline](src/model/efficientnetv2/HW2_efficientnetv2_lV8_final.ipynb)
 
 <!-- ### Dataset
 
@@ -53,11 +54,11 @@ mamba install -c conda-forge pandas numpy seaborn matplotlib scikit-learn tqdm
 
 [Testing set](data/testing/) -->
 
-<!-- ### Tested Result on Kaggle
+### Tested Result on Kaggle
 
-[Results on Kaggle](md/kaggle.md) -->
+[Results on Kaggle](md/kaggle.md)
 
-<!-- ### Final Score (Strong Baseline)
+### Final Score (Strong Baseline)
 
-- Public: 0.85156
-- Private: 0.89874 -->
+- Public: 0.90658
+<!-- - Private: 0.89874 -->
