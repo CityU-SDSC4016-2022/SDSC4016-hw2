@@ -58,7 +58,7 @@ mamba install -c conda-forge pandas numpy seaborn matplotlib scikit-learn tqdm
 
 [Results on Kaggle](md/kaggle.md)
 
-### Final Score (Strong Baseline)
+### Final Score
 
-- Public: 0.90658
-<!-- - Private: 0.89874 -->
+- Public: 0.70282
+- Private: 0.71159
