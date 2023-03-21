@@ -44,9 +44,9 @@ mamba install -c conda-forge pandas numpy seaborn matplotlib scikit-learn tqdm
 
 ### Code
 
-[Weak Baseline](src/HW2_Baseline.ipynb)
+[Baseline](src/HW2_Baseline.ipynb)
 
-[Strong Baseline](src/model/efficientnetv2/HW2_efficientnetv2_lV8_final.ipynb)
+[Modified](src/model/efficientnetv2/HW2_efficientnetv2_lV3_0.703.ipynb)
 
 <!-- ### Dataset
 
