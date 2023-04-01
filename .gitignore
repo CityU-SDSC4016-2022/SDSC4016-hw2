@@ -163,6 +163,7 @@ src/predict.csv
 src/submit.csv
 src/*pth
 src/*final.ipynb
+src/best5
 
 # Data
 data/testing/**/*.jpg
