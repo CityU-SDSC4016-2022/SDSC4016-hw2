@@ -39,7 +39,7 @@ mamba activate 4016hw2
 # conda or mamba
 mamba install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
 mamba install -c conda-forge Jupyter ipykernel
-mamba install -c conda-forge pandas numpy seaborn matplotlib scikit-learn tqdm
+mamba install -c conda-forge pandas numpy matplotlib scikit-learn tqdm
 ```
 
 ### Code
